@@ -22,5 +22,4 @@ Upload the PCAP/CSV files captured uisng the CIC Flow Meter tool and the results
 ## About
 
 Project done by 
-* Akshay Kumaar M
-* Dilli Venkatesh C P
+* Logesh Balaji
